@@ -6,7 +6,7 @@
 int main()
 {
 	srand(time(NULL)); //Initialisierung für Random Funktionen
-	//Test_NEU
+	//Test_NEU_Sommer!
 	
 	system("PAUSE");
 	return 0;
