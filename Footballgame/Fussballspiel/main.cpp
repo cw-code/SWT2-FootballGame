@@ -5,8 +5,9 @@
 
 int main()
 {
-	srand(time(NULL)); //Initialisierung für Random Funktionen
+	srand(time(NULL)); //Initialisierung fÃ¼r Random Funktionen
 	//Test_NEU
+	// etwas neues
 	
 	system("PAUSE");
 	return 0;
