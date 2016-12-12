@@ -6,7 +6,8 @@
 int main()
 {
 	srand(time(NULL)); //Initialisierung für Random Funktionen
-	//Test_NEU_Sommer!
+	//Hier den Code hinein schreiben...
+	//Zeit fürs Coden...
 	
 	system("PAUSE");
 	return 0;
